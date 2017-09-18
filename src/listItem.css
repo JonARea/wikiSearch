@@ -1,0 +1,15 @@
+.listItem {
+  border-top: 1px solid #BDBDBD;
+  padding: 8px;
+  margin-top: 30px;
+}
+
+.listItem > h2 {
+  font-family: 'Roboto', sans-serif;
+  color: #212121
+}
+
+.listItem > p {
+  font-family: 'Lato', sans-serif;
+  color: #757575
+}

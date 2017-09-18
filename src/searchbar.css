@@ -1,0 +1,9 @@
+.search-bar {
+  margin: 10px;
+}
+
+.search-bar > input {
+  width: 40%;
+  height: 30px;
+  box-shadow: 1px 1px 2px #212121;
+}
